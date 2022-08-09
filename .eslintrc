@@ -22,7 +22,6 @@
     "plugin:jsx-a11y/recommended",
     "plugin:react/recommended",
     "plugin:prettier/recommended",
-    "plugin:unicorn/recommended",
     "plugin:security/recommended",
     "plugin:react-hooks/recommended",
     "next/core-web-vitals",
@@ -32,6 +31,5 @@
     "no-console": "warn",
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
-    "unicorn/filename-case": "off"
   }
 }
